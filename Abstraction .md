@@ -31,5 +31,6 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 ## 💻 Program
 
 ## Output
+![Uploading image.png…]()
 
 ## Result
